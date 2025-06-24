@@ -17,3 +17,6 @@ Inspired by [this palette on ColorHunt](https://colorhunt.co/palette/6f4e37a67b5
 
 💡 *This color palette was chosen to create a cozy, minimal environment that reduces visual fatigue while coding and writing.*
 
+
+my tailwind command 
+npx tailwindcss -i ./styles/input.css -o ./styles/output.css --watch

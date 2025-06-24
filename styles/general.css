@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'comic-neue';
+  src: url('../fonts/ComicNeue-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body h1{
+  font-family: 'comic-neue', Courier, monospace;
+
+}
+
+
